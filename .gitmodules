@@ -1,4 +1,4 @@
 [submodule "optee_examples"]
 	path = optee_examples
 	url = https://github.com/linaro-swg/optee_examples.git
-	branch = ca_copy_issue
+	branch = master
