@@ -29,5 +29,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo testingon .47 machine
+        run: echo testing on .47 machine with as service and submodule enabled 
 
